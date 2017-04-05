@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Espresso-Like-UIAutimator.iml" filepath="$PROJECT_DIR$/Espresso-Like-UIAutimator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/elu-library/elu-library.iml" filepath="$PROJECT_DIR$/elu-library/elu-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jyn-core/jyn-core.iml" filepath="$PROJECT_DIR$/jyn-core/jyn-core.iml" />
     </modules>
   </component>
 </project>

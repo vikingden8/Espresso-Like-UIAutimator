@@ -1,4 +1,4 @@
-package com.viking.elu_library;
+package com.viking.support.test.jyn;
 
 import org.junit.Test;
 

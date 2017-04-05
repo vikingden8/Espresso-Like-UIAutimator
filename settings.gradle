@@ -1,1 +1,1 @@
-include ':app', ':elu-library'
+include ':app', ':jyn-core'

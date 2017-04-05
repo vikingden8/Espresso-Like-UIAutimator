@@ -1,4 +1,4 @@
-package com.viking.elu_library;
+package com.viking.support.test.jyn;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.viking.elu_library.test", appContext.getPackageName());
+        assertEquals("com.viking.support.test.jyn.test", appContext.getPackageName());
     }
 }
